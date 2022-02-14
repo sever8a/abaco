@@ -1,6 +1,8 @@
 # abaco
 El alegre programa que simula la ancestral calculadora digital "abaco".
 
+Se basa en calculadora en línea
+
 ## Elaboración silenciosa
 Trabajando por las ramas se elabora la visión de piedas para contar.
 
